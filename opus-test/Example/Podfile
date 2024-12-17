@@ -1,0 +1,6 @@
+use_frameworks!
+target 'opus-test_Tests' do
+  pod 'opus-test', :path => '../'
+  
+  
+end
